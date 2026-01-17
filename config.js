@@ -2,7 +2,7 @@
 // API Configuration
 // Backend service URL (automatically configured)
 const CONFIG = {
-    API_URL: "https://webapiffb9d5d2d6324e80bbe143b6.up.railway.app"
+    API_URL: "https://webapiffb9d5d2d6324e80bbe143b6-production.up.railway.app"
 };
 
 // Ensure CONFIG is globally accessible
